@@ -1,0 +1,56 @@
+*{
+    color: white;
+    font-family: sans-serif;
+}
+.main-div{
+    height: 550px;
+    display: flex;
+    justify-content: center;
+}
+
+.left-div{
+    width: 25%;
+}
+
+.right-div{
+    width: 35%;
+    background-color: rgb(27, 27, 27);
+}
+
+.left-div-text-one{
+color: white;
+position: relative; 
+bottom: 80px;
+left: 120px;
+font-family: sans-serif; 
+font-weight: bolder; 
+font-size: 20px; 
+
+}
+
+.left-div-text-two{
+position: relative; 
+bottom: 90px;
+left: 130px;
+color: rgb(27, 117, 27);
+font-family: sans-serif; 
+font-weight: bold;
+font-size: 15px; 
+}
+
+
+
+
+/* .ms{
+} */
+
+
+.ms-left{
+    width: 48%;
+    float: left;
+}
+.ms-right{
+    width: 48%;
+    float: right;
+
+}
